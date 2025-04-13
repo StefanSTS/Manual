@@ -499,7 +499,7 @@ The key is added before the `onInstallerBeforePackageDownload` event is triggere
 
 ## Summary
 
-This documents which manifest elements are supported during which installation of an extension.
+Supported manifest elements by extension type.
 
 | Component | File | Language | Library | Module | Package | Plugin | Template |
 | :-------: | :--: | :------: | :-----: | :----: | :-----: | :----: | :------: | 
